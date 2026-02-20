@@ -1,3 +1,12 @@
+****
+更新：
+| 文件 | 说明 |
+|------|------|
+| Autofeed2.2.ino | ESP32 Arduino 固件 |
+| worker.js | Cloudflare Worker 控制面板 |
+
+****
+****
 在 Arduino IoT Cloud  的 Sketch 输入到 Arduino 主文件内，需要根据实际的命名修改变量的定义。
 仔细看生成的默认文件说明进行核对，如：
 ```c++
